@@ -1,26 +1,26 @@
-"YearKey" = "a year";
+"YearKey" = "ปี";
 
-"YearsKey" = "years";
+"YearsKey" = "ปี";
 
-"DayKey" = "day";
+"DayKey" = "วัน";
 
-"DaysKey" = "days";
+"DaysKey" = "วัน";
 
-"HoursKey" = "hours";
+"HoursKey" = "ชั่วโมง";
 
-"HourKey" = "an hour";
+"HourKey" = "ชั่วโมง";
 
-"MinuteKey" = "minute";
+"MinuteKey" = "นาที";
 
-"MinutesKey" = "minutes";
+"MinutesKey" = "นาที";
 
-"SecondKey" = "a few seconds";
+"SecondKey" = "วินาที";
 
-"SecondsKey" = "seconds";
+"SecondsKey" = "วินาที";
 
-"AgoKey" = "ago";
+"AgoKey" = "ที่แล้ว";
 
-"LaterKey" = "later";
+"LaterKey" = "ก่อนหน้า";
 
-"AboutKey" = "about";
+"AboutKey" = "เมื่อ";
 
