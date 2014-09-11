@@ -26,6 +26,7 @@ Languages
 - Japanese
 - Chinese
 - German
+- Thai
 - Turkish
 
 
